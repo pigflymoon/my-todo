@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 npm install -g create-react-app
-create-react-app my-todo
-cd my-todo/
+create-react-app my-todoList
+cd my-todoList/
 npm start
 
 ```
